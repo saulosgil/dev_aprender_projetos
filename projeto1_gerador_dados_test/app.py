@@ -28,10 +28,19 @@ phone_numbers = ["+1 555-123-4567",
                  ]
 
 # Cidades
-cities = ["São Bernanrdo do Campo", "Rio Preto", "Salvador", "Brasília", "Fortaleza"]
+cities = ["São Bernanrdo do Campo",
+          "Rio Preto", "Salvador",
+          "Brasília",
+          "Fortaleza"
+          ]
 
 # Estados
-states = ["São Paulo", "Rio de Janeiro", "Minas Gerais", "Bahia", "Paraná"]
+states = ["São Paulo",
+          "Rio de Janeiro",
+          "Minas Gerais",
+          "Bahia",
+          "Paraná"
+          ]
 
 ## Menu
 
