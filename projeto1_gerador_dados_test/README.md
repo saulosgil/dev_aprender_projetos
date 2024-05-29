@@ -1,6 +1,6 @@
 # GERADOR DE DADOS ALEATÓRIOS
 
-## Caractersticas gerais
+## Características Gerais
 
 Este programa Python gera dados aleatórios com base nas escolhas do usuário, permitindo que os usuários selecionem as categorias nomes, e-mails, telefone, estado e cidade.
 
@@ -23,13 +23,13 @@ Os usuários também podem optar por salvar as informações geradas em um arqui
 3. Rode (Run) o programa utilizando o código `python app.py`.
 4. Siga as instruções na tela para escolher opções e gerar dados aleatórios.
 
-## Example
+## Exemplo
 
 $ python app.py <br />
-Enter your choices (comma-separated, 'STOP' to exit): 1,2,3 <br />
-Do you want to save this information to a file? (y/n): y <br />
-Successfully saved in the file 'datas.txt' <br />
-['Kath Leah', 'joshua.leah@email.com', '(51) 99696-9898']  
+Escolha uma ou mais opções separado por vírgula.: 1,2,3 <br />
+Você deseja salvar esta informação em um arquivo? (s/n): s <br />
+Salvo no arquivo: 'random_data.txt' <br />
+['Michael', 'Emily@email.com', '+1 555-123-4567'] 
 
 ## Estrutura de arquivo de texto
 

@@ -11,11 +11,11 @@ names = ["John",
          ]
 
 # E-mails
-emails = ["John@email.com",
-         "Emily@email.com", 
-         "Michael@email.com",
-         "Sophia@email.com",
-         "David@email.com"
+emails = ["john@email.com",
+         "emily@email.com", 
+         "michael@email.com",
+         "sophia@email.com",
+         "david@email.com"
          ]
 
 # Telefones
